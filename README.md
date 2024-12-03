@@ -38,7 +38,7 @@ Government of Gujarat
  4. Firebase (notifications)
 
 ## Dependencies
-1. Frontend: React/Angular, Axios for API calls, Material-UI for styling, Firebase for
+ 1. Frontend: React/Angular, Axios for API calls, Material-UI for styling, Firebase for
  authentication, and Chart.js for data visualization.
  2. Backend: Node.js/Express or Django, MongoDB/PostgreSQL for data storage,
  JWT/OAuth for authentication, and Socket.io for real-time features.
